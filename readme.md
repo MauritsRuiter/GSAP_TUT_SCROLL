@@ -1,1 +1,1 @@
-1 tot 3 van de tutorial voor gsap scroll snap er al veel van &copy;.
+1 tot 3 van de tutorial gevolgd van GSAP scroll snap er al veel van &copy;.
